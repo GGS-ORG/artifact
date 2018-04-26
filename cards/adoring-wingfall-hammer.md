@@ -18,9 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
-* Attack: **Unknown**
-* Defense: **Unknown**
-* Health: **Unknown**
+* Slot: **Unknown**
 * Cost: **Unknown**
 * Effect: **Unknown**         <!-- For items -->
 * Active: **Unknown** <!-- For items -->
