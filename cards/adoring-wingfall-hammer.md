@@ -24,3 +24,5 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Active: **Unknown** <!-- For items -->
 
 {{/ARTIFACT CARD}}
+
+This item was leaked on Apr-24 2018 through the US copyright DB.
