@@ -21,11 +21,12 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Hero|Creature|Item|Spell
+* Slot: Weapon|Armor|Health|Consumable|**Unknown**
 * Color: Red|Green|Blue|Black|**Unknown**|None
-* Attack: 6
-* Defense: 1
-* Health: 4
-* Cost: 4                    <!-- For Items / Spells -->
+* Attack: 6|**Unknown**
+* Defense: 1|**Unknown**
+* Health: 4|**Unknown**
+* Cost: 4|**Unknown**        <!-- For Items / Spells -->
 * Effect: Consumable         <!-- For items -->
 * Active: Fully heal a unit. <!-- For items -->
 
