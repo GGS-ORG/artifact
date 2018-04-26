@@ -21,7 +21,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Hero|Creature|Item|Spell
-* Slot: Weapon|Armor|Health|Consumable|**Unknown**
+* Slot: Weapon|Armor|Health|Consumable|**Unknown** <!-- For Items Only -->
 * Color: Red|Green|Blue|Black|**Unknown**|None
 * Attack: 6|**Unknown**
 * Defense: 1|**Unknown**
