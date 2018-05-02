@@ -1,6 +1,12 @@
 A deck in Artifact is the most important thing you choose before entering a match. It defines your playstyle, strengths and weaknesses, tactics and strategy. [Building a balanced deck](https://ggs.wiki/artifact/guides/deck-building) is one of the keys to victory.
 
-A deck should have at least 40 cards of only two colors and should have 5 heroes (see [cards](https://ggs.wiki/artifact/cards)).
+Any deck should have:
+
+* at least 40 [spell](https://ggs.wiki/artifact/cards#type%3Aspell)/[creature](https://ggs.wiki/artifact/cards#type%3Acreature)/improvement cards,
+* exactly 5 [heroes](https://ggs.wiki/artifact/cards#type%3Ahero),
+* and at least 9 [item](https://ggs.wiki/artifact/cards#type%3Aitem) cards.
+
+> It is not confirmed yet but it looks like there will be no limitation about colors in a deck. The below list is based on the initial assumption from Mar 2018 that there **is** a limitation of 2 colors per deck. This assumption seems to be incorrect as of May 2018 see [this](https://www.rockpapershotgun.com/2018/05/01/artifact-dota-card-game-from-valve-preview/) RPS article
 
 Since there are 4 different card colors, there are 6 possible types of decks:
  
