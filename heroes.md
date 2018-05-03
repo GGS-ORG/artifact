@@ -8,6 +8,13 @@ Heroes in Artifact is a special type of [cards](https://ggs.wiki/artifact/cards#
 
 Here is a complete roster of Artifact heroes
 
-### Red Color
+### [Red Color](https://ggs.wiki/artifact/cards#type:hero%20color:red)
+
+1. [Axe](https://ggs.wiki/artifact/cards/axe)
+1. [Bristleback](https://ggs.wiki/artifact/cards/bristleback)
+1. [Legion Commander](https://ggs.wiki/artifact/cards/legion-commander)
+1. [Sven](https://ggs.wiki/artifact/cards/sven)
+
+### [Green Color](https://ggs.wiki/artifact/cards#type:hero%20color:green)
 
 1. 
