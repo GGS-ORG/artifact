@@ -20,3 +20,9 @@ Here is a complete roster of Artifact heroes
 1. [Abaddon](https://ggs.wiki/artifact/cards/abaddon)
 1. [Lycan](https://ggs.wiki/artifact/cards/lycan)
 1. [Rix](https://ggs.wiki/artifact/cards/rix)
+
+### [Blue Color](https://ggs.wiki/artifact/cards#type:hero%20color:blue)
+
+1. [Crystal Maiden](https://ggs.wiki/artifact/cards/crystal-maiden)
+1. [Luna](https://ggs.wiki/artifact/cards/luna)
+1. [Zeus](https://ggs.wiki/artifact/cards/zeus)
