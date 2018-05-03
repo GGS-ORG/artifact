@@ -26,3 +26,9 @@ Here is a complete roster of Artifact heroes
 1. [Crystal Maiden](https://ggs.wiki/artifact/cards/crystal-maiden)
 1. [Luna](https://ggs.wiki/artifact/cards/luna)
 1. [Zeus](https://ggs.wiki/artifact/cards/zeus)
+
+### [Black Color](https://ggs.wiki/artifact/cards#type:hero%20color:black)
+
+1. [Phantom Assassin](https://ggs.wiki/artifact/cards/phantom-assassin)
+1. [Ravenhook](https://ggs.wiki/artifact/cards/ravenhook)
+1. [Sorla Khan](https://ggs.wiki/artifact/cards/sorla-khan)
