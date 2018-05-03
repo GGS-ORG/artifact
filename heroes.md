@@ -17,4 +17,6 @@ Here is a complete roster of Artifact heroes
 
 ### [Green Color](https://ggs.wiki/artifact/cards#type:hero%20color:green)
 
-1. 
+1. [Abaddon](https://ggs.wiki/artifact/cards/abaddon)
+1. [Lycan](https://ggs.wiki/artifact/cards/lycan)
+1. [Rix](https://ggs.wiki/artifact/cards/rix)
