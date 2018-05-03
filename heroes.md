@@ -1,5 +1,13 @@
-Heroes is a special type of [cards](https://ggs.wiki/artifact/cards) in Artifact. They are the most impactful asset on the board and along with that they define what opportunities a player has on each lane.
+Heroes in Artifact is a special type of [cards](https://ggs.wiki/artifact/cards#type:hero). They are the most impactful asset on the board and along with that they define what opportunities a player has on each lane.
 
-First of all, a spell card of any color can be played only when there is a hero of the same color on that lane. Since there can only be no more no less than five heroes in a deck, at least one of the three lanes will be single-colored i.e. limited in spells to be case there. 
+1. First of all, a spell/creature/improvement card of any color can be played only when there is a hero of the same color on that lane. Since there can only be no more no less than five heroes in a deck, at least one of the three lanes will be single-colored i.e. limited in spells to be cast there.
+1. Next, heroes are the only cards in the game with slots. Item cards can be equipped into those slots to increase power of that hero or to provide more opportunities on the board.
+1. Heroes come with a predefined set of cards with them. I.e. when a hero is added to a deck, then in fact it is 3 cards added to your deck. "*If you really like [Thunder God's Wrath](https://ggs.wiki/artifact/cards/thunder-gods-wrath) but you don’t like [Zeus](https://ggs.wiki/artifact/cards/zeus), you don’t get that option. That’s part of the trade-off that you’re making when including a hero.*" — Artifact programmer Bruno Carlucci
 
-Next, heroes are the only cards in the game with slots. Item cards can be equipped into those slots to increase power of that hero or to provide more opportunities on the board.
+## Heroes Roster
+
+Here is a complete roster of Artifact heroes
+
+### Red Color
+
+1. 
