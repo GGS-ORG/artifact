@@ -26,4 +26,6 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 Viscous Nasal Goo can bring the target's armor to negative values. Every point of negative armor means an extra point of damage received per attacking card. 
 
+[yt:6-rggvUzxDM]
+
 This card is very effective when an enemy unit is being attacked by multiple ally creatures/heroes.
