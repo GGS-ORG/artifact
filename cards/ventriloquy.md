@@ -23,3 +23,10 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Effect: Choose a unit. It taunts.
 
 {{/ARTIFACT CARD}}
+
+Taunt effect means that the target will "attact" attacks from all the enemy neighbour cards. Even if they have another targets in front of them.
+
+Ventriloquy can target both enemiies and allies which makes it very versatile when it comes to controlling who's attacking what.
+
+[yt:_gEIIeVcUYQ]
+
