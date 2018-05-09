@@ -6,11 +6,11 @@ Comment
 
 A deck defines what cards (i.e. opportunities) you have in a match to win. It is a key to success.
 
-## Basics
+## Deck building rules
 
-* A deck should have at least 40 cards
-* 5 of them mush be Heroes
-* Cards of only 2 colors can be used in a deck
+1. There shall be exactly 5 heroes in a deck
+1. A deck shall have at least 40 spell/creature/improvement cards including cards that are coming with heroes automatically.
+1. A deck shall have at least 9 item cards
 
 ## Choosing Color
 
