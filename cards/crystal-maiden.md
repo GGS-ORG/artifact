@@ -16,6 +16,8 @@
 
 {{/ARTIFACT CARD}}
 
+Crystal Maiden comes with [Frostbite](https://ggs.wiki/artifact/cards/frostbite) spell card which allows her not only deal damage but also Disarm powerful cards before the [Combat Phase](https://ggs.wiki/artifact/guides/artifact-beginners-guide#combat-phase).
+
 Source for the passive is [here](https://imgur.com/gallery/mKuVZ#j4IxzGq);
 
 Source for stats from [this video](https://www.youtube.com/watch?v=kgfXzegOYFM).
