@@ -18,7 +18,7 @@ Each match is a repeated set of rounds consisting of multiple phases:
 
 During the Action Phase players are using their spell cards, equip item cards on heroes an so on. If a player does not want to use a card, then it passes a turn to their opponent. When both player pass, the Combat Phase happens and the game moves to another lane.
 
-### Combat Phase
+### Combat Phase {#combat-phase}
 
 The Combat Phase is where all the damage is calculated for the cards and towers on a specific lane. If a creature or a hero was destroyed, Gold is earned by a respective player.
 
