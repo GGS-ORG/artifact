@@ -26,7 +26,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 Frostbite is a spell card that comes with [Crystal Maiden](https://ggs.wiki/artifact/cards/crystal-maiden) hero.
 
-> **Disarm** - a card does not attack this round. A disarmed card still participates in the combat phase and receives damage.
+> **Disarm** - a card does not attack this round. A disarmed card still participates in the [combat phase](https://ggs.wiki/artifact/guides/artifact-beginners-guide#combat-phase) and receives damage.
 
 It is not only a damage dealing tool but also a control ability that helps you to disable a card of your opponent. See how it works in the video below:
 
